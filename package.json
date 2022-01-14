@@ -1,0 +1,28 @@
+{
+  "name": "mern-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "watch": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timduran/socialNetworkAPI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/timduran/socialNetworkAPI/issues"
+  },
+  "homepage": "https://github.com/timduran/socialNetworkAPI#readme"
+}
